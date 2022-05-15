@@ -9,6 +9,16 @@ It checks following conditions:
 
 For simplicity this app skips tags which don't require closing tag (eg. <img> tag), and it doesn't check if input tags are valid HTML names.
 
+# Preview:
+
+![image](https://user-images.githubusercontent.com/100487510/168462213-24f94f2c-e57d-4ba7-a373-20f3ca223096.png)
+
+![image](https://user-images.githubusercontent.com/100487510/168462224-00d825d1-60ef-4d6f-a813-2a8e7031f2ea.png)
+
+# Deploy:
+
+https://jazzy-nougat-859e51.netlify.app/
+
 # UI:
 
 
@@ -25,15 +35,6 @@ For simplicity this app skips tags which don't require closing tag (eg. <img> ta
 
 ![image](https://user-images.githubusercontent.com/100487510/168462177-06dee4c6-1341-4a00-aafd-be4ce0e11297.png)
 
-# Preview:
-
-![image](https://user-images.githubusercontent.com/100487510/168462213-24f94f2c-e57d-4ba7-a373-20f3ca223096.png)
-
-![image](https://user-images.githubusercontent.com/100487510/168462224-00d825d1-60ef-4d6f-a813-2a8e7031f2ea.png)
-
-# Deploy:
-
-https://jazzy-nougat-859e51.netlify.app/
 
 # To do's:
 
