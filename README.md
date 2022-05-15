@@ -33,5 +33,10 @@ For simplicity this app skips tags which don't require closing tag (eg. <img> ta
 
 # Deploy:
 
+https://jazzy-nougat-859e51.netlify.app/
 
+# To do's:
+
+-add examples
+-display correct and incorrect tags
 
