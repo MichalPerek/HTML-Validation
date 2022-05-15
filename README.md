@@ -3,9 +3,9 @@
 One page app written with plain JS that let's user check if parsed string has correct HTML tags.
 It checks following conditions:
 
--are there open tags that aren't closed
--are there tags that don't have opening
--are there tags which are mixed, eg: <p><strong></p></strong>
+- are there open tags that aren't closed
+- are there tags that don't have opening
+- are there tags which are mixed, eg: <p><strong></p></strong>
 
 For simplicity this app skips tags which don't require closing tag (eg. <img> tag), and it doesn't check if input tags are valid HTML names.
 
@@ -38,6 +38,6 @@ https://jazzy-nougat-859e51.netlify.app/
 
 # To do's:
 
--add examples
--display correct and incorrect tags
+- add examples
+- display correct and incorrect tags
 
